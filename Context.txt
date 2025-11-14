@@ -1,0 +1,45 @@
+Goal:
+Create a complete, modern, professional website for OASIA, a luxury modern villas compound located in Sheikh Zayed, Egypt. The website must be fully responsive and optimized for desktop and mobile.
+
+🌿 Brand Identity & Concept
+
+OASIA is a premium real-estate development inspired by nature, balance, serenity, and modern design.
+Use a sophisticated, minimalistic aesthetic with clean lines, airy spacing, soft earth tones, and elegant typography.
+
+Highlighted text to incorporate throughout the site (as hero text, about sections, etc.):
+
+"OASIA is a green sanctuary in the heart of Zayed, where modern design and rich landscapes come together in harmony. Every detail reflects balance, warmth, and a sense of natural tranquility — creating a place that feels effortlessly alive and beautifully serene."
+
+"Oasia represents a balance between earth and life."
+
+📌 Design Requirements
+
+Modern, elegant UI
+
+Interactive smooth animations (subtle parallax, fade-ins, hover effects)
+
+High-end premium real-estate look
+
+Responsive design (desktop, tablet, and mobile)
+
+High-quality typography
+
+Nature-inspired color palette (earth tones, greens, warm neutrals)
+
+Technical Requirements
+
+Use any modern framework (React, Next.js, Astro, etc.)
+
+Clean, modular, reusable components
+
+SEO friendly (titles, meta tags, structure)
+
+Smooth transitions and animations (Framer Motion recommended)
+
+Fast load time and optimization for mobile
+
+Use environment variables for API keys or form handling if needed
+
+🎯 Action for Cursor
+
+Build the full website structure, generate all pages, components, styles, responsive layouts, animations, and placeholder content/images for OASIA as a modern luxurious villas compound website

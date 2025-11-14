@@ -1,0 +1,17 @@
+{
+  "name": "OASIA - Luxury Villas in Sheikh Zayed",
+  "short_name": "OASIA",
+  "description": "A green sanctuary where modern design and rich landscapes come together in harmony",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f7",
+  "theme_color": "#6b876b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
